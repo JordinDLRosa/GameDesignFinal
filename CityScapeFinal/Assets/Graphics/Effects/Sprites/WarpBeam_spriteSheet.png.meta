@@ -1,0 +1,450 @@
+fileFormatVersion: 2
+guid: f5c98848f638c5c45a06698f39399c46
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3721575042996823054
+    second: WarpBeam_spriteSheet_0
+  - first:
+      213: 5101867869384519761
+    second: WarpBeam_spriteSheet_1
+  - first:
+      213: -2768530852017923221
+    second: WarpBeam_spriteSheet_2
+  - first:
+      213: 4253816750725451600
+    second: WarpBeam_spriteSheet_3
+  - first:
+      213: -5538315495597224901
+    second: WarpBeam_spriteSheet_4
+  - first:
+      213: 3743054849790470133
+    second: WarpBeam_spriteSheet_5
+  - first:
+      213: 3670337239798759083
+    second: WarpBeam_spriteSheet_6
+  - first:
+      213: -8965199638294099984
+    second: WarpBeam_spriteSheet_7
+  - first:
+      213: -8213383188859534432
+    second: WarpBeam_spriteSheet_8
+  - first:
+      213: -2047105758806988253
+    second: WarpBeam_spriteSheet_9
+  - first:
+      213: 1322978393123948544
+    second: WarpBeam_spriteSheet_10
+  - first:
+      213: -434613156246922927
+    second: WarpBeam_spriteSheet_11
+  - first:
+      213: 2361161146588117491
+    second: WarpBeam_spriteSheet_12
+  - first:
+      213: 1367006620066304309
+    second: WarpBeam_spriteSheet_13
+  - first:
+      213: 1964991512800515239
+    second: WarpBeam_spriteSheet_14
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: 1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: WarpBeam_spriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 204
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef143df1fa14d39479353b824c872a8a
+      internalID: -3721575042996823054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarpBeam_spriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 640
+        width: 204
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44fdbbb877f339f4eb6dd6c96fa9c76f
+      internalID: 5101867869384519761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarpBeam_spriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 640
+        width: 204
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7336da95a6a839045b3f5d606e2aa16f
+      internalID: -2768530852017923221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarpBeam_spriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 640
+        width: 204
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cc2ddbc55626f241b1b79e830f20d3e
+      internalID: 4253816750725451600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarpBeam_spriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 640
+        width: 204
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7bfcdbf69abb16499b3207b925d6ded
+      internalID: -5538315495597224901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarpBeam_spriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 204
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea4a34e8fb2fd1e41b1745c99992146b
+      internalID: 3743054849790470133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarpBeam_spriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 320
+        width: 204
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2bf4dad7fb43934ea2b3f5f2b9b8225
+      internalID: 3670337239798759083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarpBeam_spriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 320
+        width: 204
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3e61750e76f07047ac6c28769424681
+      internalID: -8965199638294099984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarpBeam_spriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 320
+        width: 204
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd92b2b9b436e2b4b8ae41e5be320b0b
+      internalID: -8213383188859534432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarpBeam_spriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 320
+        width: 204
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d6cb6d55425d1146b944282dee4af60
+      internalID: -2047105758806988253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarpBeam_spriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 204
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e58675abf4a776a448635e0e3017dea9
+      internalID: 1322978393123948544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarpBeam_spriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 0
+        width: 204
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb81301d1f0b3b94cb7d4b8b58678fc3
+      internalID: -434613156246922927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarpBeam_spriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 0
+        width: 204
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d067d7bdf203644bad659c3c497bd2e
+      internalID: 2361161146588117491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarpBeam_spriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 0
+        width: 204
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bd6258d2ce0b4e48bbe5232745d8af5
+      internalID: 1367006620066304309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarpBeam_spriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 0
+        width: 204
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fe1208b605a72f47aeb2ba96ae1e96b
+      internalID: 1964991512800515239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
